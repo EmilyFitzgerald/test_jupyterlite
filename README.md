@@ -1,4 +1,4 @@
-Using the JupyterLite Demo to test running a Chronicling America Notebook - original source of the notebook is https://libraryofcongress.github.io/data-exploration/loc.gov%20JSON%20API/Chronicling_America/ChronAm-download_results.html
+Using the JupyterLite Demo to test running a Chronicling America Notebook - original source of the 'Downloading Search Results from Chronicling America' notebook is https://libraryofcongress.github.io/data-exploration/loc.gov%20JSON%20API/Chronicling_America/ChronAm-download_results.html
 
 
 # JupyterLite Demo
